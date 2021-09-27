@@ -246,3 +246,7 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
 
+
+## Further Reading
+
+<https://www.markdownguide.org/basic-syntax/#overview>
