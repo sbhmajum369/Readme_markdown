@@ -249,4 +249,6 @@ Emoji:
 
 ## Further Reading
 
-<https://www.markdownguide.org/basic-syntax/#overview>
+<https://www.markdownguide.org/basic-syntax/#overview>  
+<https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>  
+
