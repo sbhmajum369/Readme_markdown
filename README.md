@@ -250,5 +250,8 @@ Emoji:
 ## Further Reading
 
 <https://www.markdownguide.org/basic-syntax/#overview>  
+
+### Emojis  
 <https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>  
+<https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia>  
 
